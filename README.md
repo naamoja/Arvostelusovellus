@@ -1,1 +1,8 @@
-# Arvostelusovellus
+- Arvostelusovellus elokuville tai sarjoille
+- Peruskäyttäjä luo profiilin, johon tethdyt arvostelut tulevat näkyviin muille
+- Käyttäjä voi arvioida muiden arvostelujen hyödyllisyyttä +1/-1 äänillä
+- Käyttäjä voi sallia muiden käyttäjien kommentoida omia arvostelujaan
+- Käyttäjä voi seurata toista käyttäjää ja saada ilmoituksia tämän uusista arvosteluista
+- Sisältää tietokannan josta voi hakea tuotosta nimen, julkaisuvuoden, genren tai muun ominaisuuden perusteella
+- Ylläpitäjä voi päivittää elokuvien ja sarjojen tietokantaa
+- Ylläpitäjä voi poistaa kirjoitusoikeudet käyttäjältä
